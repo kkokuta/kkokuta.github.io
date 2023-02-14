@@ -33,6 +33,6 @@ Mar. 5, 2022|[情報処理学会第84回全国大会学生奨励賞](http://www.
   - numpy, pandas, torch, etc.
 
 ## Contact me
-- email: <kokuta.kazuma.r3@dc.tohoku.ac.jp>
-- github: <https://github.com/kkokuta>
-- twitter: Not yet.
+- Email: <kokuta.kazuma.r3@dc.tohoku.ac.jp>
+- GitHub: <https://github.com/kkokuta>
+- Twitter: Not yet.
