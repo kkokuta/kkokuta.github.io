@@ -1,5 +1,6 @@
 # 穀田 一真 (Kazuma KOKUTA)
-![Kokuta Kazuma](https://i.gyazo.com/f581f6949589ec1f7bffe5aefa7a33c7.png)
+
+<img src="https://i.gyazo.com/f581f6949589ec1f7bffe5aefa7a33c7.png" width="300" alt="Photo"/>
 
 - he/him
 - A master's student (M1) at [Tohoku University](https://www.tohoku.ac.jp/en/)
