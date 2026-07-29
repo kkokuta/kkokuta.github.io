@@ -2,14 +2,12 @@
 
 <img src="https://i.gyazo.com/f581f6949589ec1f7bffe5aefa7a33c7.png" width="300" alt="Photo"/>
 
-- he/him
-- A master's student (M1) at [Tohoku University](https://www.tohoku.ac.jp/en/)
+- A doctoral student (D3) at [Tohoku University](https://www.tohoku.ac.jp/en/)
 - A member of the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/about-us/members/)
 
 ## Interests
 - Natural Language Processing
-- Logical Reasoning
-- Knowledge Base
+- Mechanistic Interpretability
 
 ## Education
 Period|School|Credentials
@@ -28,11 +26,6 @@ Date|Award|Title|Authors
 :-:|--|--|--
 Mar. 5, 2022|[情報処理学会第84回全国大会学生奨励賞](http://www.ipsj.or.jp/award/taikaigakusei.html)|自然言語処理の応用による要求仕様書中の矛盾検出手法の提案|穀田一真 (仙台高専), 岡本 圭史 (仙台高専)
 
-## Skills
-- Python 3
-  - numpy, pandas, torch, etc.
-
 ## Contact me
 - Email: <kokuta.kazuma.r3@dc.tohoku.ac.jp>
 - GitHub: <https://github.com/kkokuta>
-- Twitter: [@kokuta_nlp](https://twitter.com/kokuta_nlp)
